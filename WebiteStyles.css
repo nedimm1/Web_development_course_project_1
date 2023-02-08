@@ -21,3 +21,7 @@ a {
 a:hover {
           text-decoration: underline;
         }
+
+#todays-challenge {
+    color: rgb(170, 96, 83)
+}
