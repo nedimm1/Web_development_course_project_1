@@ -34,4 +34,6 @@ img {
 
 body {
     text-align: center;
+    background-color: rgb(250, 187, 187);
+    margin: 50px;
 }
