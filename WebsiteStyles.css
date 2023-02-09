@@ -1,14 +1,12 @@
 
 h1{
     font-family: 'Oswald', sans-serif;
-    text-align: center;
     color: #534b4b
 
 }
 
 p{
     font-family: 'Fira-sans', sans-serif; 
-    text-align: center; 
     color: #534b4b
     
 }
@@ -26,4 +24,14 @@ a:hover {
     color: rgb(170, 96, 83);
     font-weight: bold;
     font-size: 52px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+body {
+    text-align: center;
 }
