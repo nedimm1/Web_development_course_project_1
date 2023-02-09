@@ -2,6 +2,7 @@
 h1{
     font-family: 'Oswald', sans-serif;
     color: #534b4b
+    
 
 }
 
@@ -36,4 +37,10 @@ body {
     text-align: center;
     background-color: rgb(250, 187, 187);
     margin: 50px;
+}
+
+#Goal {
+    color: rgb(170, 96, 83);
+    font-weight: bold;
+    font-size: 52px;
 }
