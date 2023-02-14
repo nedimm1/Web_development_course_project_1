@@ -37,14 +37,17 @@ ol {
 }
 
 li {
-   list-style: none;
-   margin: 32px;
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
+    margin: 32px;
 }
 
 a{
+    padding: 12px;
     background-color: rgb(161, 1, 78);
     color: white;
     border-radius: 4px;
+    border: 1px solid rgb(161, 1, 78);
     font-family: 24px;
     text-decoration: none;
 
