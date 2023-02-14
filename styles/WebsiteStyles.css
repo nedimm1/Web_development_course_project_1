@@ -1,7 +1,8 @@
 
 h1{
     font-family: 'Oswald', sans-serif;
-    color: #534b4b
+    color: #534b4b;
+    margin: 12px 0;
     
 
 }
@@ -33,17 +34,21 @@ body {
 
 ol {
     list-style: none;
-    margin: 32px;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
 }
 
 li {
+
+    padding: 16px;
     background-color: rgb(223, 136, 124);
     border-radius: 6px;
     margin: 32px;
 }
 
 a{
-    padding: 12px;
+    padding: 12px 48px;
     background-color: rgb(161, 1, 78);
     color: white;
     border-radius: 4px;
