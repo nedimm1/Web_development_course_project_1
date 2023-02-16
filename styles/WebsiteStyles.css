@@ -1,7 +1,7 @@
 
 h1{
     font-family: 'Oswald', sans-serif;
-    color: #534b4b;
+    color: rgb(31, 25, 25);
     margin: 0;
     text-align: center;
     
@@ -18,7 +18,7 @@ p{
 
 
 #todays-challenge {
-    color: rgb(170, 96, 83);
+    color: rgb(75, 59, 59);
     font-weight: bold;
     font-size: 52px;
 }
