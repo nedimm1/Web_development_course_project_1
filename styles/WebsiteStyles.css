@@ -2,7 +2,7 @@
 h1{
     font-family: 'Oswald', sans-serif;
     color: #534b4b;
-    margin: 12px 0;
+    margin: 0;
     
 
 }
@@ -45,6 +45,7 @@ li {
     background-color: rgb(223, 136, 124);
     border-radius: 6px;
     margin: 32px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
 }
 
 a{
@@ -56,6 +57,7 @@ a{
     font-family: 24px;
     text-decoration: none;
     display: inline-block;
+    margin: 0;
 
 }
 
