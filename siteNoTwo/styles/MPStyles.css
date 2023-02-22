@@ -34,3 +34,12 @@ li {
 
 }
 
+ul {
+    border: 5px solid rgb(103, 6, 176);
+    background-color: rgb(103, 6, 176);
+    
+}
+
+#HTwo {
+     margin-bottom: 50px;
+}
