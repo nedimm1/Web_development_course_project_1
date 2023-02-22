@@ -12,6 +12,7 @@ h1 {
 
 h2{
     margin: 100px;
+    color: white;
 }
 
 
@@ -23,11 +24,14 @@ img{
 
 p {
     margin-left: 100px;
+    color: white;
 }
 
 li {
     margin-left: 10px;
+    color: yellow;
 }
+
 
 #FirstList {
     margin-left: 10px;
@@ -37,9 +41,13 @@ li {
 ul {
     border: 5px solid rgb(103, 6, 176);
     background-color: rgb(103, 6, 176);
-    
+    border-radius: 50px;
 }
 
 #HTwo {
      margin-bottom: 50px;
+}
+
+#listP {
+    color: yellow
 }
