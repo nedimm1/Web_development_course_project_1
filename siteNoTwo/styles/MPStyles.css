@@ -74,9 +74,12 @@ a {
     border-radius: 5px;
     text-decoration: none;
     
-}
+} 
 
 #pdfLink {
-    color:rgb(224, 200, 83);
     font-size: 35px;
+}
+
+a:hover {
+    background-color: rgb(199, 181, 95);
 }
