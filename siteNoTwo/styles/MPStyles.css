@@ -7,12 +7,16 @@ h1 {
     color: rgb(83, 4, 186);
     font-size: 50px;
     text-align: center;
+    font-family: 'Roboto mono', sans-serif;
+    font-style: bold;
    
 }
 
 h2{
     margin: 100px;
     color: white;
+    font-family: 'Roboto mono', sans-serif;
+    font-style: bold;
 }
 
 
@@ -25,6 +29,7 @@ img{
 p {
     margin-left: 100px;
     color: white;
+    font-family: 'Roboto mono', sans-serif;
 }
 
 li {
@@ -58,4 +63,20 @@ ul {
 
 footer {
     text-align: center;
+}
+
+
+
+a {
+    color: black;
+    background: rgb(217, 199, 115);
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+
+#pdfLink {
+    color:rgb(224, 200, 83);
+    font-size: 35px;
 }
