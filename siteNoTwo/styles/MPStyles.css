@@ -30,11 +30,14 @@ p {
     margin-left: 100px;
     color: white;
     font-family: 'Roboto mono', sans-serif;
+    
 }
 
 li {
     margin-left: 10px;
     color: yellow;
+    border-left: 5px solid yellow;
+    margin-right: 30px;
 }
 
 
@@ -47,7 +50,9 @@ ul {
     border: 5px solid rgb(103, 6, 176);
     background-color: rgb(103, 6, 176);
     border-radius: 50px;
-    list-style: square;
+    list-style: none;
+    
+    
 }
 
 #HTwo {
