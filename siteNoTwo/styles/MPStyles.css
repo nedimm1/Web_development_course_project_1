@@ -97,4 +97,7 @@ main {
     border: 5px solid rgb(103, 6, 176);
     background-color: rgb(103, 6, 176);
     border-radius: 10px;
+    padding: 32px;
+    width: 700px;
+    margin: 32px auto;
 }
