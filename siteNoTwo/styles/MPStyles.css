@@ -14,10 +14,12 @@ h1 {
 }
 
 h2{
-    margin: 100px;
+    
+    margin-left: 50px;
     color: white;
     font-family: 'Roboto mono', sans-serif;
     font-style: bold;
+    
 }
 
 
@@ -28,17 +30,18 @@ img{
 }
 
 p {
-    margin-left: 100px;
+    
     color: white;
     font-family: 'Roboto mono', sans-serif;
+    margin-left: 8px;
     
 }
 
 li {
-    margin-left: 10px;
     color: yellow;
     border-left: 5px solid yellow;
-    margin-right: 30px;
+    
+    
 }
 
 
@@ -48,17 +51,13 @@ li {
 }
 
 ul {
-    border: 5px solid rgb(103, 6, 176);
-    background-color: rgb(103, 6, 176);
     border-radius: 50px;
     list-style: none;
     
     
 }
 
-#HTwo {
-     margin-bottom: 50px;
-}
+
 
 #listP {
     color: yellow
@@ -93,4 +92,10 @@ a {
 
 a:hover {
     background-color: rgb(199, 181, 95);
+}
+
+main {
+    border: 5px solid rgb(103, 6, 176);
+    background-color: rgb(103, 6, 176);
+    border-radius: 50px;
 }
