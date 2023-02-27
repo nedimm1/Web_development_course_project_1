@@ -23,7 +23,7 @@ h2{
 
 img{
     width: 300px;
-    margin-left: 567px;
+    
     
 }
 
@@ -69,6 +69,10 @@ ul {
 }
 
 footer {
+    text-align: center;
+}
+
+header {
     text-align: center;
 }
 
