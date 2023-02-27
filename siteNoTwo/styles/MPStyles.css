@@ -51,7 +51,6 @@ li {
 }
 
 ul {
-    border-radius: 50px;
     list-style: none;
     
     
@@ -97,5 +96,5 @@ a:hover {
 main {
     border: 5px solid rgb(103, 6, 176);
     background-color: rgb(103, 6, 176);
-    border-radius: 50px;
+    border-radius: 10px;
 }
