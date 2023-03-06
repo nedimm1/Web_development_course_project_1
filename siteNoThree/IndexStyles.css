@@ -24,8 +24,10 @@ Header li {
     margin-left: 20px;
 }
 
-hero {
+#hero {
     height: 800px;
+    background-image: url("/siteNoThree/Images/Pics/websitePic.png");
+    background-size: cover;
 }
 
 #page-logo a{
