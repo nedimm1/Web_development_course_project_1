@@ -42,6 +42,20 @@ Header li {
     top: 400px;
 }
 
+#hero-content h1 {
+    font-family:'Ralway', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+
+   
+
+    
+
+
 #page-logo a{
     padding: 10px;
     font-family: "Oleo script", sans-serif;
