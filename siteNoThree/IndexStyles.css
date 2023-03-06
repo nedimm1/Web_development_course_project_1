@@ -24,6 +24,10 @@ Header li {
     margin-left: 20px;
 }
 
+hero {
+    height: 800px;
+}
+
 #page-logo a{
     padding: 10px;
     font-family: "Oleo script", sans-serif;
