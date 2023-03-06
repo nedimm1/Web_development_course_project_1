@@ -3,11 +3,25 @@ body {
     margin: 0px
 }
 
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+header {
+    display: flex;
+    flex-direction: row;
+    flex-flow:  nowrap;
+    justify-content: space-between;
+    padding: 15px, 16px;
     
+}
+
+header ul {
+
+    display: flex;
+    list-style: none;
+    
+
+}
+
+Header li {
+    margin-left: 20px;
 }
 
 #page-logo a{
