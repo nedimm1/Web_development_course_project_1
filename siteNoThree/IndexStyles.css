@@ -85,7 +85,7 @@ Header li {
     
 }
 
-header a {
+#info-link {
     color: white;
     margin-right: 50px;
     border: 5px blue;
@@ -94,7 +94,7 @@ header a {
     border-radius: 5px;
 }
 
-header a:hover {
+#info-link:hover {
     background-color: white;
     color: blue;
 }
