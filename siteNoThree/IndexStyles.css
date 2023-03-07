@@ -65,7 +65,9 @@ Header li {
    
 }
 
-    
+    nav {
+        margin-right: 27px;
+    }
 
 
 #page-logo a{
@@ -76,4 +78,5 @@ Header li {
     font-size: 50px;
     text-transform: uppercase;
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
+    margin-left: 27px;
 }
