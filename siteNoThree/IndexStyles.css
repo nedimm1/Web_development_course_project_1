@@ -9,6 +9,8 @@ header {
     flex-flow:  nowrap;
     justify-content: space-between;
     padding: 15px, 16px;
+    position: absolute;
+    width: 100%;
     
 }
 
@@ -22,12 +24,15 @@ header ul {
 
 Header li {
     margin-left: 20px;
+
 }
 
 #hero {
-    height: 800px;
+    height: 700px;
     background-image: url("/siteNoThree/Images/Pics/websitePic.png");
     background-size: cover;
+   
+    
 }
 
 #hero-content {
@@ -39,7 +44,7 @@ Header li {
     margin: 0 auto;
     padding: 50px;
     position: relative;
-    top: 400px;
+    top: 200px;
 }
 
 #hero-content h1 {
@@ -65,9 +70,7 @@ Header li {
    
 }
 
-    nav {
-        margin-right: 27px;
-    }
+
 
 
 #page-logo a{
@@ -79,4 +82,19 @@ Header li {
     text-transform: uppercase;
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
     margin-left: 27px;
+    
+}
+
+header a {
+    color: white;
+    margin-right: 50px;
+    border: 5px blue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+header a:hover {
+    background-color: white;
+    color: blue;
 }
