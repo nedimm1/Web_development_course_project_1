@@ -2,6 +2,8 @@ body {
     font-family: "Quicksand", sans-serif;
     margin: 0px;
     text-align: center;
+  
+    
 }
 
 header {
@@ -99,3 +101,21 @@ Header li {
     background-color: white;
     color: blue;
 }
+
+#highlights ul {
+   list-style: none;
+}
+
+#destinations {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.destination {
+  margin: 0 20px;
+  width: 25%;
+}
+
