@@ -97,6 +97,11 @@ Header li {
     border-radius: 5px;
 }
 
+#highlights{
+    padding: 24px;
+    background-color: rgb(227, 255, 253);
+}
+
 #info-link:hover {
     background-color: white;
     color: blue;
