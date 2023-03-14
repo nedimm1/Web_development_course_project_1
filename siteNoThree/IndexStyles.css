@@ -2,8 +2,6 @@ body {
     font-family: "Quicksand", sans-serif;
     margin: 0px;
     text-align: center;
-  
-    
 }
 
 header {
@@ -143,4 +141,26 @@ Header li {
     text-transform: uppercase;
     font-size: 20px;
     color: rgb(86, 184, 57);
+}
+
+footer {
+  background-color: black;
+  padding: 30px;
+   
+}
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+footer li {
+    width: 80px;
+    height: 80px;
+    margin: 0 50px;
+}
+
+footer img{
+    width: 100%;
 }
