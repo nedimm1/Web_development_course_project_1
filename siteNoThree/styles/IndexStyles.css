@@ -181,18 +181,27 @@ footer img{
    list-style: none;
    width: 800px;
    margin-bottom: 0px;
+
+   
+  
 }
 
 #destinationMain li img {
     width: 400px;
     height: 280px;
+    object-fit: cover;
 }
 
 #destinationMain li{
     display: flex;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+    
 }
 
 .item-content {
-    background-color: white;
+   
     padding: 27px;
 }
