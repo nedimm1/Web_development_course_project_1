@@ -198,10 +198,19 @@ footer img{
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
     border-radius: 6px;
     overflow: hidden;
+
+
     
 }
 
 .item-content {
-   
     padding: 27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
+.actions {
+    text-align: right;
+}
+
