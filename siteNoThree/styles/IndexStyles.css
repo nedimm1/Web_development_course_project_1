@@ -169,6 +169,10 @@ footer img{
     position: static;
 }
 
+#destinationBody {
+    background: linear-gradient(30deg, rgb(77, 77, 77), rgb(58, 58, 58));
+}
+
 #destinationMain ul{
    list-style: none;
 }
