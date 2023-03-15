@@ -165,6 +165,15 @@ footer img{
     width: 100%;
 }
 
-#destinationMain {
-    margin:  10px;
+#destinationHeader {
+    position: static;
+}
+
+#destinationMain ul{
+   list-style: none;
+}
+
+#destinationMain li img {
+    width: 400px;
+    height: 280px;
 }
