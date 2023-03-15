@@ -165,6 +165,10 @@ footer img{
     width: 100%;
 }
 
+#destinationMain {
+    text-align: left;
+}
+
 #destinationHeader {
     position: static;
 }
@@ -175,9 +179,20 @@ footer img{
 
 #destinationMain ul{
    list-style: none;
+   width: 800px;
+   margin-bottom: 0px;
 }
 
 #destinationMain li img {
     width: 400px;
     height: 280px;
+}
+
+#destinationMain li{
+    display: flex;
+}
+
+.item-content {
+    background-color: white;
+    padding: 27px;
 }
