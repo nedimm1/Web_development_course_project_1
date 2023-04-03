@@ -1,0 +1,47 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    background-color: rgb(44, 41, 38);
+}
+
+body ul{
+  list-style: none;
+}
+
+body a{
+    text-decoration: none;
+}
+
+#main_header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+
+#main_header ul{
+    display: flex;
+}
+
+#main_header nav a{
+    padding: 5px;
+    margin-right: 15px;
+    font: 300;
+    font-size: 20px;
+    color: rgb(185, 131, 31)
+
+}
+
+#main_header nav a:hover{
+   color: rgb(228, 163, 44);
+}
+
+#logo {
+    margin-left: 25px;
+    margin-right: 15px;
+    font: 500;
+    font-size: 60px;   
+    text-transform: uppercase;
+    color: rgb(238, 164, 80)
+}
+
