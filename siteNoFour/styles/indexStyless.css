@@ -45,3 +45,49 @@ body a{
     color: rgb(238, 164, 80)
 }
 
+main h1 {
+  text-align: center;
+  color:rgb(238, 164, 80);
+  font-size: 48px;
+}
+
+#products {
+    width: 80%;
+    margin: 50px auto;
+}
+
+#products ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+#food-items {
+    background-color: rgb(228, 206, 182);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+#food-items img{
+
+   height: 240px;
+   width: 100%;
+   object-fit: cover;
+
+}
+
+.food-selection {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 5px;
+    background-color: rgb(228, 157, 44);
+    color: white;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: rgb(221, 134, 34);
+}
