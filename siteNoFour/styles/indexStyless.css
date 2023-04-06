@@ -89,3 +89,9 @@ main h1 {
 .btn:hover {
     background-color: rgb(221, 134, 34);
 }
+
+@media (max-width: 731px) {
+    #products ul {
+        grid-template-columns: 1fr;
+    }
+}
