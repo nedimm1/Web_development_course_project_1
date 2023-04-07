@@ -80,6 +80,12 @@ body a{
     
 }
 
+#sideDrawer header{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 5%;
+}
+
 #sideDrawer:target{
     display: block;
 }
