@@ -13,4 +13,5 @@ input {
 button {
     display: block;
     margin-left: 40rem;
+    margin-top: 15px;
 }
