@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+input {
+    margin-top: 5rem;
+    margin-left: 40rem;
+    width: 300px;
+    padding: 10px;
+}
