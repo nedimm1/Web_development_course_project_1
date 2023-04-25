@@ -21,3 +21,13 @@ button {
     display: block;
     margin-top: 15px;
 }
+
+.form-control-inline {
+    display: flex;
+}
+
+.form-control-inline input{
+    width: auto;
+    margin-right: 0.5rem;
+
+}
