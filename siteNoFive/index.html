@@ -8,7 +8,7 @@
 </head>
 
 <body>
-   <form action="/user.data" method="post">
+   <form action="/" method="get">
       <label for="hear">How did u hear about this site?</label>
       <textarea id="hear"></textarea>
       <label for="UName">Ur name</label>
@@ -16,9 +16,9 @@
       <label for="UEmail">Ur email</label>
       <input type="email" name="user-email" id="UEmail">
       <label for="UAge">Ur age</label>
-      <input type="number" name="user-age" id="UAge">
+      <input type="number" name="user-age" id="UAge" required min="18" max="100">
       <label for="UPassword">Ur password</label>
-      <input type="password" name="user-password" id="UPassword">
+      <input type="password" name="user-password" id="UPassword" required minlength="8">
       <label for="fav-color">What is ur favorite color?</label>
       <select name="favorite-color" id="fav-color">
          <option>Red</option>
