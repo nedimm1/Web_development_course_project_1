@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(225, 230, 226);
 }
 
 form {
@@ -8,6 +8,7 @@ form {
     background-color: white;
     padding: 1rem;
     border-radius: 10px;
+    box-shadow: 0 2px 8px rgb(0, 0, 0, 0.2);
 
 }
 
@@ -24,6 +25,7 @@ select{
 button {
     display: block;
     margin-top: 15px;
+    margin-left: 400px;
 }
 
 .form-control-inline {
